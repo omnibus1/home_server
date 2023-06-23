@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: "D4ADFC";
+}
+
+.playButton{
+  display: inline-flex;
+  margin: 0px;
+  margin-left: 10px;
+  transition-duration: 1s;
+  font-size: 1em;
+  color:#FFD3A3;
+}
+.playButton:hover{
+  color: white;
+  cursor: pointer;
+}
+.songName{
+  display: inline;
+  margin: 0px;
+  font-style: italic,bold;
+  font-size: 1m;
+}
+.avilableSongs{
+  text-align: left;
+}
+.song{
+  margin: 5px;
+}
+.playerAll{
+  margin:0px;
+  min-height: 100vh;
+  background-color: #D4ADFC;
+}
+.queueText{
+  margin: 0px;
+}
+
+.homeAll{
+  margin: 0px;
+  height: 100vh;
+  overflow: auto;
+}
+.homeLink{
+  padding: 20px;
+}
+.link{
+  text-decoration: none;
+  color: black;
+  transition-duration: 1s;
+  padding: 30px;
+  font-size: 2em;
+}
+.link:hover{
+  color: white;
+}
+.wholeTable{
+  padding: 30px;
+
+}
+
+
+.jobTable{
+  margin-left: auto;
+  margin-right: auto;
+  border-spacing:30px 0;
+  border-collapse: collapse;
+}
+
+table tr:nth-child(odd) td{
+  background-color: rgb(224, 224, 224);
+}
+table tr:nth-child(even) td{
+  background-color: rgb(247, 247, 247);
+}
+.jobTableRow{
+  text-align: left;
+  padding: 10px 25px;
+}
+.jobTableRowBlue{
+  text-align: left;
+  padding: 10px 25px;
+  color: rgb(48, 162, 255);
+}
+.tableHeader{
+  padding: 10px;
+  background-color: rgb(114, 127, 243);
+  color: white;
+}

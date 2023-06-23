@@ -1,0 +1,51 @@
+[
+    {
+        "status": "Succesfull",
+        "start_time": "2023-06-23 17:32:55",
+        "end_time": "2023-06-23 17:33:04",
+        "duration": "0:00:09",
+        "type": "Automatic"
+    },
+    {
+        "status": "Succesfull",
+        "start_time": "2023-06-23 17:36:47",
+        "end_time": "2023-06-23 17:36:55",
+        "duration": "0:00:08",
+        "type": "Automatic"
+    },
+    {
+        "status": "Succesfull",
+        "start_time": "2023-06-23 15:37:19",
+        "end_time": "2023-06-23 15:37:30",
+        "duration": "0:00:11",
+        "type": "Manual"
+    },
+    {
+        "status": "Succesfull",
+        "start_time": "2023-06-23 15:38:06",
+        "end_time": "2023-06-23 15:38:39",
+        "duration": "0:00:33",
+        "type": "Manual"
+    },
+    {
+        "status": "Succesfull",
+        "start_time": "2023-06-23 15:42:23",
+        "end_time": "2023-06-23 15:42:46",
+        "duration": "0:00:23",
+        "type": "Manual"
+    },
+    {
+        "status": "Succesfull",
+        "start_time": "2023-06-23 15:44:27",
+        "end_time": "2023-06-23 15:44:36",
+        "duration": "0:00:09",
+        "type": "Manual"
+    },
+    {
+        "status": "Succesfull",
+        "start_time": "2023-06-23 18:47:19",
+        "end_time": "2023-06-23 18:47:28",
+        "duration": "0:00:09",
+        "type": "Manual"
+    }
+]
